@@ -1,5 +1,9 @@
 # Jokes
 
+Jokes is where you find the right joke to break the ice with your foreign friend.
+
+<img src="static/icon.png" alt="Smille Face" width="100" height="100">
+
 ## Build Setup
 
 ```bash
